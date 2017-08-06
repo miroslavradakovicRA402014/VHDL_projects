@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/home/mika/projects_workspace/VHDL_projects/Combinational_logic/shwreg/shwreg4bit_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="shwreg4bit_tb" />
+            <top_module name="std_logic_1164" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="/shwreg4bit_tb/iclk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">iclk</obj_property>
+      <obj_property name="ObjectShortName">iclk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/shwreg4bit_tb/inrst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">inrst</obj_property>
+      <obj_property name="ObjectShortName">inrst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/shwreg4bit_tb/id" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">id[3:0]</obj_property>
+      <obj_property name="ObjectShortName">id[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/shwreg4bit_tb/idsr" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">idsr</obj_property>
+      <obj_property name="ObjectShortName">idsr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/shwreg4bit_tb/idsl" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">idsl</obj_property>
+      <obj_property name="ObjectShortName">idsl</obj_property>
+   </wvobject>
+   <wvobject fp_name="/shwreg4bit_tb/isel" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">isel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">isel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/shwreg4bit_tb/oq" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">oq[3:0]</obj_property>
+      <obj_property name="ObjectShortName">oq[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/shwreg4bit_tb/iclk_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">iclk_period</obj_property>
+      <obj_property name="ObjectShortName">iclk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/shwreg4bit_tb/uut/sreg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sreg[3:0]</obj_property>
+      <obj_property name="ObjectShortName">sreg[3:0]</obj_property>
+   </wvobject>
+</wave_config>

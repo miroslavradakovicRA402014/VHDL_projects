@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/home/mika/projects_workspace/VHDL_projects/Combinational_logic/counterMOD5/cntMOD5_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="cntmod5_tb" />
+            <top_module name="std_logic_1164" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="5" />
+   <wvobject fp_name="/cntmod5_tb/iclk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">iclk</obj_property>
+      <obj_property name="ObjectShortName">iclk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cntmod5_tb/inrst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">inrst</obj_property>
+      <obj_property name="ObjectShortName">inrst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cntmod5_tb/ocnt" type="other" db_ref_id="1">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">ocnt</obj_property>
+      <obj_property name="ObjectShortName">ocnt</obj_property>
+      <obj_property name="label">ocnt</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cntmod5_tb/iclk_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">iclk_period</obj_property>
+      <obj_property name="ObjectShortName">iclk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cntmod5_tb/uut/scnt" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">scnt</obj_property>
+      <obj_property name="ObjectShortName">scnt</obj_property>
+   </wvobject>
+</wave_config>

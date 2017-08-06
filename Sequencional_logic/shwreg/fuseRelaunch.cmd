@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/mika/projects_workspace/VHDL_projects/Combinational_logic/shwreg/shwreg4bit_tb_isim_beh.exe" -prj "/home/mika/projects_workspace/VHDL_projects/Combinational_logic/shwreg/shwreg4bit_tb_beh.prj" "work.shwreg4bit_tb" 
