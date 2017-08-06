@@ -1,0 +1,29 @@
+Command line:
+   cnt6states_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  41997
+
+Sun Aug  6 13:40:18 2017
+
+
+ Elaboration Time: 0.02 sec
+
+ Current Memory Usage: 235.815 Meg
+
+ Total Signals          : 7
+ Total Nets             : 4
+ Total Signal Drivers   : 4
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 4
+ Total Traceable Variables  : 10
+ Total Scalar Nets and Variables : 366
+Total Line Count : 14
+
+ Total Simulation Time: 0.08 sec
+
+ Current Memory Usage: 311.316 Meg
+
+Sun Aug  6 13:40:42 2017
+

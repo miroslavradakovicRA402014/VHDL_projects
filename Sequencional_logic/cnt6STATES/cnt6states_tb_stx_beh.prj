@@ -1,0 +1,2 @@
+vhdl isim_temp "cnt6states.vhd"
+vhdl isim_temp "cnt6states_tb.vhd"

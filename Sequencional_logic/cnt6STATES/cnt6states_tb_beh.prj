@@ -1,0 +1,2 @@
+vhdl work "cnt6states.vhd"
+vhdl work "cnt6states_tb.vhd"
